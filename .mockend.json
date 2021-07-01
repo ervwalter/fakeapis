@@ -1,5 +1,5 @@
 {
-  "Customers": {
+  "Customer": {
     "id": "number",
     "name": "string",
     "status": "boolean",
@@ -10,7 +10,7 @@
     "id": "number",
     "message": "string"
   },
-  "CustomersShort": {
+  "CustomerShort": {
     "id": "number",
     "n": "string",
     "s": "boolean",
