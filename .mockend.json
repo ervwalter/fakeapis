@@ -4,21 +4,19 @@
     "name": "string",
     "status": "boolean",
     "lastUpdated": "date",
-    "errors": "Error[]"
-  },
-  "Error": {
-    "id": "number",
-    "message": "string"
+    "address": "string",
+    "zipcode": "string",
+    "latitude": "number",
+    "longitude": "number"
   },
   "C": {
     "i": "number",
     "n": "string",
     "s": "boolean",
     "u": "date",
-    "e": "E[]"
+    "a": "string",
+    "z": "string",
+    "la": "number",
+    "lo": "number"
   },
-  "E": {
-    "id": "number",
-    "m": "string"
-  }  
 }
