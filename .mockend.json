@@ -10,14 +10,14 @@
     "id": "number",
     "message": "string"
   },
-  "CustomerShort": {
-    "id": "number",
+  "C": {
+    "i": "number",
     "n": "string",
     "s": "boolean",
     "u": "date",
-    "e": "ErrorShort[]"
+    "e": "E[]"
   },
-  "ErrorShort": {
+  "E": {
     "id": "number",
     "m": "string"
   }  
