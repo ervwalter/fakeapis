@@ -1,0 +1,24 @@
+{
+  "Customers": {
+    "id": "number",
+    "name": "string",
+    "status": "boolean",
+    "lastUpdated": "date",
+    "errors": "Error[]"
+  },
+  "Error": {
+    "id": "number",
+    "message": "string"
+  },
+  "CustomersShort": {
+    "id": "number",
+    "n": "string",
+    "s": "boolean",
+    "u": "date",
+    "e": "ErrorShort[]"
+  },
+  "ErrorShort": {
+    "id": "number",
+    "m": "string"
+  }  
+}
