@@ -6,8 +6,8 @@
     "lastUpdated": "date",
     "address": "string",
     "zipcode": "string",
-    "latitude": "number",
-    "longitude": "number"
+    "latitude": "string",
+    "longitude": "string"
   },
   "C": {
     "i": "number",
@@ -16,7 +16,7 @@
     "u": "date",
     "a": "string",
     "z": "string",
-    "la": "number",
-    "lo": "number"
+    "la": "string",
+    "lo": "string"
   }
 }
